@@ -60,6 +60,7 @@ h2{
     padding: 1rem 2.5rem;
     margin: 4rem 0rem 0rem 0rem;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .suvs button{
@@ -69,6 +70,7 @@ h2{
     padding: 1rem 2.5rem;
     margin: 4rem 0rem 0rem 0rem;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .luxury button{
@@ -78,6 +80,7 @@ h2{
     padding: 1rem 2.5rem;
     margin: 4rem 0rem 0rem 0rem;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .sedans button:hover{
